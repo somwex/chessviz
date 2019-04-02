@@ -4,4 +4,5 @@
 main.c~
 #main.c#
 !Makefile
-
+*.save.
+*.clang-format
